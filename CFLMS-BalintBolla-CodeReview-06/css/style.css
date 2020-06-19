@@ -1,0 +1,18 @@
+* {
+	font-family: Alegreya;
+}
+body {
+	background-color: #F0E8E8;
+}
+.banner {
+	background-image: url('../img/bcn.jpg');
+	background-size: cover;
+	
+}
+
+@media (max-width:770px) {
+
+    img {
+      display: none;
+    }
+}
